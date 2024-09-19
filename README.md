@@ -2,7 +2,9 @@
 Clases V2
 
 - Codigo
-- ![image](https://github.com/user-attachments/assets/511e0e37-2e24-4021-a1de-b9f4d49ece73)
+- ![image](https://github.com/user-attachments/assets/4c6dbb96-87b9-48a8-9814-fe45c6ff4c3d)
+
 
 - Resultado
-- ![image](https://github.com/user-attachments/assets/5a101e36-0765-4781-8db7-93812be2242f)
+- ![image](https://github.com/user-attachments/assets/c09009e9-644d-4ca9-944a-eead21586cbd)
+
